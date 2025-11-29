@@ -1,0 +1,429 @@
+<!-- wp:columns {"style":{"spacing":{"padding":{"left":"0px","right":"0px","top":"1px","bottom":"1px"},"margin":{"top":"0px","bottom":"0px"},"blockGap":{"top":"0px","left":"0px"}}}} -->
+<div class="wp-block-columns" id="home" style="margin-top:0px;margin-bottom:0px;padding-top:1px;padding-right:0px;padding-bottom:1px;padding-left:0px"><!-- wp:column -->
+<div class="wp-block-column" id="hero-before"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:cover {"url":"http://localhost:8888/hasib/wp-content/uploads/2025/09/hero-pc-en-1024x669.webp","id":216,"dimRatio":0,"customOverlayColor":"#7881aa","isUserOverlayColor":false,"isDark":false,"sizeSlug":"large","className":"hero-block","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"border":{"radius":{"topLeft":"25px","topRight":"25px","bottomLeft":"0px","bottomRight":"0px"}}}} -->
+<div class="wp-block-cover is-light hero-block" style="border-top-left-radius:25px;border-top-right-radius:25px;border-bottom-left-radius:0px;border-bottom-right-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><img class="wp-block-cover__image-background wp-image-216 size-large" alt="" src="http://localhost:8888/hasib/wp-content/uploads/2025/09/hero-pc-en-1024x669.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#7881aa"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"left":"0","right":"0","top":"0px","bottom":"0px"},"margin":{"top":"0px"}},"border":{"radius":{"bottomLeft":"0px","bottomRight":"0px"}}},"layout":{"type":"constrained","contentSize":"100%"}} -->
+<div class="wp-block-group" style="border-bottom-left-radius:0px;border-bottom-right-radius:0px;margin-top:0px;padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:0"><!-- wp:columns {"style":{"border":{"radius":{"bottomLeft":"0px","bottomRight":"0px","topLeft":"0px","topRight":"0px"}}}} -->
+<div class="wp-block-columns" style="border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-left-radius:0px;border-bottom-right-radius:0px"><!-- wp:column {"width":"50%","className":"hero-col-left","style":{"spacing":{"padding":{"top":"80px","bottom":"240px","left":"80px","right":"80px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-column hero-col-left" style="padding-top:80px;padding-right:80px;padding-bottom:240px;padding-left:80px;flex-basis:50%"><!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"lineHeight":"0.97","letterSpacing":"-2px","fontSize":"4vw"},"spacing":{"margin":{"bottom":"40px"}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-white-color has-text-color has-link-color" style="margin-bottom:40px;font-size:4vw;letter-spacing:-2px;line-height:0.97">Fast and Secure Payments. Access your money without delay.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"hero-text-block","style":{"spacing":{"margin":{"top":"0","bottom":"45px"}},"elements":{"link":{"color":{"text":"#ffffffc7"}}},"color":{"text":"#ffffffc7"},"typography":{"lineHeight":1.4,"letterSpacing":"-0.32px"}}} -->
+<p class="hero-text-block has-text-color has-link-color" style="color:#ffffffc7;margin-top:0;margin-bottom:45px;letter-spacing:-0.32px;line-height:1.4">Accept card payments with ease and track every transaction in real time — all from one simple dashboard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"0","bottom":"50px"}}}} -->
+<div class="wp-block-buttons" style="margin-top:0;margin-bottom:50px"><!-- wp:button {"backgroundColor":"white","className":"contact-us-button is-style-fill","style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"600","letterSpacing":"-0.4px"},"elements":{"link":{"color":{"text":"#097bff"}}},"color":{"text":"#097bff"},"spacing":{"padding":{"top":"14px","bottom":"14px"}}},"borderColor":"white"} -->
+<div class="wp-block-button contact-us-button is-style-fill"><a class="wp-block-button__link has-white-background-color has-text-color has-background has-link-color has-border-color has-white-border-color has-custom-font-size wp-element-button" style="color:#097bff;padding-top:14px;padding-bottom:14px;font-size:20px;font-style:normal;font-weight:600;letter-spacing:-0.4px">Contact Us </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:columns {"isStackedOnMobile":false,"className":"hero-bottom-row","style":{"spacing":{"margin":{"bottom":"0px"}}}} -->
+<div class="wp-block-columns is-not-stacked-on-mobile hero-bottom-row" style="margin-bottom:0px"><!-- wp:column {"verticalAlignment":"center","layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:media-text {"mediaId":177,"mediaLink":"http://localhost:8888/hasib/home/tick-circle/","mediaType":"image","mediaWidth":15,"imageFill":false,"style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<div class="wp-block-media-text is-stacked-on-mobile has-white-color has-text-color has-link-color" style="font-size:20px;font-style:normal;font-weight:500;grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/tick-circle.png" alt="" class="wp-image-177 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-size:20px;font-style:normal;font-weight:500">KYC/AML</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:media-text {"mediaId":177,"mediaLink":"http://localhost:8888/hasib/home/tick-circle/","mediaType":"image","mediaWidth":15,"imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/tick-circle.png" alt="" class="wp-image-177 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"20px"}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-link-color" style="font-size:20px;font-style:normal;font-weight:500">Secure by Design</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:columns {"className":"about-us-section","style":{"spacing":{"padding":{"top":"112px","bottom":"90px"}}}} -->
+<div class="wp-block-columns about-us-section" style="padding-top:112px;padding-bottom:90px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","className":"gradient-dark","style":{"spacing":{"margin":{"bottom":"25px"}},"typography":{"letterSpacing":"-0.2px"}}} -->
+<h2 class="wp-block-heading has-text-align-center gradient-dark" style="margin-bottom:25px;letter-spacing:-0.2px">About Us.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"about-us-text","style":{"color":{"text":"#223853"},"elements":{"link":{"color":{"text":"#223853"}}},"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"500","lineHeight":1.4,"letterSpacing":"-0.2px"}}} -->
+<p class="has-text-align-center about-us-text has-text-color has-link-color" style="color:#223853;font-size:20px;font-style:normal;font-weight:500;letter-spacing:-0.2px;line-height:1.4">Hasib is building the future of payments across emerging markets. Our mission is to make life easier for merchants by delivering the fastest and most reliable POS systems with transparent pricing and world-class support. Just as new players have transformed markets in the UK and the Middle East, Hasib is here to raise the standard for payments with innovation, speed, and trust.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"how-it-works-section","style":{"spacing":{"padding":{"top":"102px","bottom":"0","left":"0","right":"0"}}}} -->
+<div class="wp-block-columns how-it-works-section" id="how-it-works" style="padding-top:102px;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:column {"width":"40%","style":{"spacing":{"padding":{"top":"0px","bottom":"0px"},"blockGap":"0px"}}} -->
+<div class="wp-block-column" style="padding-top:0px;padding-bottom:0px;flex-basis:40%"><!-- wp:heading {"className":"gradient-dark","style":{"spacing":{"padding":{"top":"0","bottom":"0"}},"typography":{"lineHeight":"1","letterSpacing":"-2.5px"}}} -->
+<h2 class="wp-block-heading gradient-dark" style="padding-top:0;padding-bottom:0;letter-spacing:-2.5px;line-height:1">How It Works.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:columns {"verticalAlignment":"top","className":"how-it-works-3-columns","style":{"spacing":{"padding":{"top":"10px","bottom":"50px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top how-it-works-3-columns" style="padding-top:10px;padding-bottom:50px"><!-- wp:column {"verticalAlignment":"top","width":"208px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:208px"><!-- wp:columns {"verticalAlignment":"top","className":"how-it-works-digit","style":{"spacing":{"padding":{"bottom":"53px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top how-it-works-digit" style="padding-bottom:53px"><!-- wp:column {"verticalAlignment":"top","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:25%"><!-- wp:image {"id":247,"width":"40px","height":"47px","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/decor-before-digit.png" alt="" class="wp-image-247" style="object-fit:cover;width:40px;height:47px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:75%"><!-- wp:paragraph {"style":{"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}},"typography":{"fontSize":"64px","fontStyle":"normal","fontWeight":"500"},"spacing":{"padding":{"top":"12px"}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;padding-top:12px;font-size:64px;font-style:normal;font-weight:500">01</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#223853"},"elements":{"link":{"color":{"text":"#223853"}}},"typography":{"fontSize":"28px","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"0px","bottom":"10px"}}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#223853;margin-top:0px;margin-bottom:10px;font-size:28px;font-style:normal;font-weight:700">Share your details</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#233954db"},"elements":{"link":{"color":{"text":"#233954db"}}},"typography":{"fontSize":"16px","lineHeight":"1.3","letterSpacing":"-0.32px"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954db;font-size:16px;letter-spacing:-0.32px;line-height:1.3">Provide your business information and get approved within minutes.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"208px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:208px"><!-- wp:columns {"verticalAlignment":"top","className":"how-it-works-digit","style":{"spacing":{"padding":{"bottom":"53px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top how-it-works-digit" style="padding-bottom:53px"><!-- wp:column {"verticalAlignment":"top","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:25%"><!-- wp:image {"id":247,"width":"40px","height":"47px","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/decor-before-digit.png" alt="" class="wp-image-247" style="object-fit:cover;width:40px;height:47px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:75%"><!-- wp:paragraph {"style":{"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}},"typography":{"fontSize":"64px","fontStyle":"normal","fontWeight":"500"},"spacing":{"padding":{"top":"12px"}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;padding-top:12px;font-size:64px;font-style:normal;font-weight:500">02</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#223853"},"elements":{"link":{"color":{"text":"#223853"}}},"typography":{"fontSize":"28px","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"0px","bottom":"10px"}}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#223853;margin-top:0px;margin-bottom:10px;font-size:28px;font-style:normal;font-weight:700">Receive your POS device</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#233954db"},"elements":{"link":{"color":{"text":"#233954db"}}},"typography":{"fontSize":"16px","lineHeight":"1.3","letterSpacing":"-0.32px"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954db;font-size:16px;letter-spacing:-0.32px;line-height:1.3">We deliver and install your payment terminal, ready for use.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"208px"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:208px"><!-- wp:columns {"verticalAlignment":"top","className":"how-it-works-digit","style":{"spacing":{"padding":{"bottom":"53px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top how-it-works-digit" style="padding-bottom:53px"><!-- wp:column {"verticalAlignment":"top","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:25%"><!-- wp:image {"id":247,"width":"40px","height":"47px","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/decor-before-digit.png" alt="" class="wp-image-247" style="object-fit:cover;width:40px;height:47px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:75%"><!-- wp:paragraph {"style":{"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}},"typography":{"fontSize":"64px","fontStyle":"normal","fontWeight":"500"},"spacing":{"padding":{"top":"12px"}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;padding-top:12px;font-size:64px;font-style:normal;font-weight:500">03</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#223853"},"elements":{"link":{"color":{"text":"#223853"}}},"typography":{"fontSize":"28px","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"0px","bottom":"10px"}}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#223853;margin-top:0px;margin-bottom:10px;font-size:28px;font-style:normal;font-weight:700">Start accepting payments</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#233954d6"},"elements":{"link":{"color":{"text":"#233954d6"}}},"typography":{"fontSize":"16px","letterSpacing":"-0.32px","lineHeight":"1.3"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954d6;font-size:16px;letter-spacing:-0.32px;line-height:1.3">Process card transactions and track your funds in real time through your dashboard.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":249,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/how-img-en.jpg" alt="" class="wp-image-249"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"why-choose-us-section","style":{"spacing":{"margin":{"top":"-240px","bottom":"0px"},"padding":{"bottom":"38px","right":"100px","left":"125px"}}}} -->
+<div class="wp-block-columns why-choose-us-section" style="margin-top:-240px;margin-bottom:0px;padding-right:100px;padding-bottom:38px;padding-left:125px"><!-- wp:column -->
+<div class="wp-block-column" id="why-choose-us"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"218px","bottom":"26px"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="margin-top:218px;margin-bottom:26px">Why<br>Choose Us.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"why-choose-us-text","style":{"spacing":{"margin":{"bottom":"100px"}},"typography":{"fontSize":"20px","lineHeight":"1.35"}}} -->
+<p class="has-text-align-center why-choose-us-text" style="margin-bottom:100px;font-size:20px;line-height:1.35">Everything you need to accept payments with confidence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"className":"card","style":{"border":{"radius":"25px"},"spacing":{"blockGap":{"top":"10px","left":"10px"},"padding":{"top":"10px","bottom":"10px","left":"10px","right":"10px"},"margin":{"top":"10px","bottom":"0px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns card has-white-background-color has-background" style="border-radius:25px;margin-top:10px;margin-bottom:0px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:column {"verticalAlignment":"center","className":"column column-text"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-text"><!-- wp:columns {"className":"why-text-wrapper"} -->
+<div class="wp-block-columns why-text-wrapper"><!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:columns {"className":"icon-digit"} -->
+<div class="wp-block-columns icon-digit"><!-- wp:column {"width":"66.66%","className":"icon-digit__icon"} -->
+<div class="wp-block-column icon-digit__icon" style="flex-basis:66.66%"><!-- wp:image {"id":353,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-icon-1.png" alt="" class="wp-image-353"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%","className":"icon-digit__digit"} -->
+<div class="wp-block-column icon-digit__digit" style="flex-basis:33.33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.3","fontSize":"16px","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.32px"},"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;font-size:16px;font-style:normal;font-weight:700;letter-spacing:-0.32px;line-height:1.3">01</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"color":{"text":"#097bff"},"elements":{"link":{"color":{"text":"#097bff"}}},"typography":{"fontSize":"32px","lineHeight":"1.2","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.64px"}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#097bff;font-size:32px;font-style:normal;font-weight:700;letter-spacing:-0.64px;line-height:1.2">Instant Settlement</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#233954d9"}}},"color":{"text":"#233954d9"},"typography":{"fontSize":"20px","lineHeight":"1.3","letterSpacing":"-0.4px"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954d9;font-size:20px;letter-spacing:-0.4px;line-height:1.3">Access your money without delay after every payment.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"column column-image"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-image"><!-- wp:image {"id":364,"sizeSlug":"full","linkDestination":"none","align":"full","style":{"border":{"radius":"15px"}}} -->
+<figure class="wp-block-image alignfull size-full has-custom-border"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-img-1.webp" alt="" class="wp-image-364" style="border-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"card change-order","style":{"border":{"radius":"25px"},"spacing":{"blockGap":{"top":"10px","left":"10px"},"padding":{"top":"10px","bottom":"10px","left":"10px","right":"10px"},"margin":{"top":"10px","bottom":"0px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns card change-order has-white-background-color has-background" style="border-radius:25px;margin-top:10px;margin-bottom:0px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:column {"verticalAlignment":"center","className":"column column-text"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-text"><!-- wp:columns {"className":"why-text-wrapper"} -->
+<div class="wp-block-columns why-text-wrapper"><!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:columns {"className":"icon-digit"} -->
+<div class="wp-block-columns icon-digit"><!-- wp:column {"width":"66.66%","className":"icon-digit__icon"} -->
+<div class="wp-block-column icon-digit__icon" style="flex-basis:66.66%"><!-- wp:image {"id":354,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-icon-2.png" alt="" class="wp-image-354"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%","className":"icon-digit__digit"} -->
+<div class="wp-block-column icon-digit__digit" style="flex-basis:33.33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.3","fontSize":"16px","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.32px"},"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;font-size:16px;font-style:normal;font-weight:700;letter-spacing:-0.32px;line-height:1.3">02</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"color":{"text":"#097bff"},"elements":{"link":{"color":{"text":"#097bff"}}},"typography":{"fontSize":"32px","lineHeight":"1.2","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.64px"}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#097bff;font-size:32px;font-style:normal;font-weight:700;letter-spacing:-0.64px;line-height:1.2">Transparent Pricing</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#233954d9"}}},"color":{"text":"#233954d9"},"typography":{"fontSize":"20px","lineHeight":"1.3","letterSpacing":"-0.4px"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954d9;font-size:20px;letter-spacing:-0.4px;line-height:1.3">Clear fees you can trust — No surprises.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"column column-image"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-image"><!-- wp:image {"id":365,"sizeSlug":"full","linkDestination":"none","align":"full","style":{"border":{"radius":"15px"}}} -->
+<figure class="wp-block-image alignfull size-full has-custom-border"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-img-2.webp" alt="" class="wp-image-365" style="border-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"card","style":{"border":{"radius":"25px"},"spacing":{"blockGap":{"top":"10px","left":"10px"},"padding":{"top":"10px","bottom":"10px","left":"10px","right":"10px"},"margin":{"top":"10px","bottom":"0px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns card has-white-background-color has-background" style="border-radius:25px;margin-top:10px;margin-bottom:0px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:column {"verticalAlignment":"center","className":"column column-text"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-text"><!-- wp:columns {"className":"why-text-wrapper"} -->
+<div class="wp-block-columns why-text-wrapper"><!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:columns {"className":"icon-digit"} -->
+<div class="wp-block-columns icon-digit"><!-- wp:column {"width":"66.66%","className":"icon-digit__icon"} -->
+<div class="wp-block-column icon-digit__icon" style="flex-basis:66.66%"><!-- wp:image {"id":355,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-icon-3.png" alt="" class="wp-image-355"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%","className":"icon-digit__digit"} -->
+<div class="wp-block-column icon-digit__digit" style="flex-basis:33.33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.3","fontSize":"16px","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.32px"},"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;font-size:16px;font-style:normal;font-weight:700;letter-spacing:-0.32px;line-height:1.3">03</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"color":{"text":"#097bff"},"elements":{"link":{"color":{"text":"#097bff"}}},"typography":{"fontSize":"32px","lineHeight":"1.2","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.64px"}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#097bff;font-size:32px;font-style:normal;font-weight:700;letter-spacing:-0.64px;line-height:1.2">Real/Time Dashboard</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#233954d9"}}},"color":{"text":"#233954d9"},"typography":{"lineHeight":"1.3","letterSpacing":"-0.4px","fontSize":"20px"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954d9;font-size:20px;letter-spacing:-0.4px;line-height:1.3">Track sales, payouts, and performance at any time.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"column column-image"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-image"><!-- wp:image {"id":366,"sizeSlug":"full","linkDestination":"none","align":"full","style":{"border":{"radius":"15px"}}} -->
+<figure class="wp-block-image alignfull size-full has-custom-border"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-img-3.webp" alt="" class="wp-image-366" style="border-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"card change-order","style":{"border":{"radius":"25px"},"spacing":{"blockGap":{"top":"10px","left":"10px"},"padding":{"top":"10px","bottom":"10px","left":"10px","right":"10px"},"margin":{"top":"10px","bottom":"0px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns card change-order has-white-background-color has-background" style="border-radius:25px;margin-top:10px;margin-bottom:0px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:column {"verticalAlignment":"center","className":"column column-text"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-text"><!-- wp:columns {"className":"why-text-wrapper"} -->
+<div class="wp-block-columns why-text-wrapper"><!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:columns {"className":"icon-digit"} -->
+<div class="wp-block-columns icon-digit"><!-- wp:column {"width":"66.66%","className":"icon-digit__icon"} -->
+<div class="wp-block-column icon-digit__icon" style="flex-basis:66.66%"><!-- wp:image {"id":356,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-icon-4.png" alt="" class="wp-image-356"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%","className":"icon-digit__digit"} -->
+<div class="wp-block-column icon-digit__digit" style="flex-basis:33.33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.3","fontSize":"16px","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.32px"},"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;font-size:16px;font-style:normal;font-weight:700;letter-spacing:-0.32px;line-height:1.3">04</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"color":{"text":"#097bff"},"elements":{"link":{"color":{"text":"#097bff"}}},"typography":{"fontSize":"32px","lineHeight":"1.2","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.64px"}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#097bff;font-size:32px;font-style:normal;font-weight:700;letter-spacing:-0.64px;line-height:1.2">24/7<br>Support</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#233954d9"}}},"color":{"text":"#233954d9"},"typography":{"fontSize":"20px","lineHeight":"1.3","letterSpacing":"-0.3px"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954d9;font-size:20px;letter-spacing:-0.3px;line-height:1.3">A dedicated team always ready to help your business.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"column column-image"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-image"><!-- wp:image {"id":367,"sizeSlug":"full","linkDestination":"none","align":"full","style":{"border":{"radius":"15px"}}} -->
+<figure class="wp-block-image alignfull size-full has-custom-border"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-img-4.webp" alt="" class="wp-image-367" style="border-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"card","style":{"border":{"radius":"25px"},"spacing":{"blockGap":{"top":"10px","left":"10px"},"padding":{"top":"10px","bottom":"10px","left":"10px","right":"10px"},"margin":{"top":"10px","bottom":"0px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns card has-white-background-color has-background" style="border-radius:25px;margin-top:10px;margin-bottom:0px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:column {"verticalAlignment":"center","className":"column column-text"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-text"><!-- wp:columns {"className":"why-text-wrapper"} -->
+<div class="wp-block-columns why-text-wrapper"><!-- wp:column {"width":"30%"} -->
+<div class="wp-block-column" style="flex-basis:30%"><!-- wp:columns {"className":"icon-digit"} -->
+<div class="wp-block-columns icon-digit"><!-- wp:column {"width":"66.66%","className":"icon-digit__icon"} -->
+<div class="wp-block-column icon-digit__icon" style="flex-basis:66.66%"><!-- wp:image {"id":357,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-icon-5.png" alt="" class="wp-image-357"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%","className":"icon-digit__digit"} -->
+<div class="wp-block-column icon-digit__digit" style="flex-basis:33.33%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.3","fontSize":"16px","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.32px"},"color":{"text":"#b3c1d4"},"elements":{"link":{"color":{"text":"#b3c1d4"}}}}} -->
+<p class="has-text-color has-link-color" style="color:#b3c1d4;font-size:16px;font-style:normal;font-weight:700;letter-spacing:-0.32px;line-height:1.3">05</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"70%"} -->
+<div class="wp-block-column" style="flex-basis:70%"><!-- wp:heading {"level":3,"style":{"color":{"text":"#097bff"},"elements":{"link":{"color":{"text":"#097bff"}}},"typography":{"fontSize":"32px","lineHeight":"1.2","fontStyle":"normal","fontWeight":"700","letterSpacing":"-0.64px"}}} -->
+<h3 class="wp-block-heading has-text-color has-link-color" style="color:#097bff;font-size:32px;font-style:normal;font-weight:700;letter-spacing:-0.64px;line-height:1.2">Future<br>Ready</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#233954d9"}}},"color":{"text":"#233954d9"},"typography":{"lineHeight":"1.3","fontSize":"20px","letterSpacing":"-0.3px"}}} -->
+<p class="has-text-color has-link-color" style="color:#233954d9;font-size:20px;letter-spacing:-0.3px;line-height:1.3">More than just payments. Our platform is built to grow with you.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","className":"column column-image"} -->
+<div class="wp-block-column is-vertically-aligned-center column column-image"><!-- wp:image {"id":368,"sizeSlug":"full","linkDestination":"none","align":"full","style":{"border":{"radius":"15px"}}} -->
+<figure class="wp-block-image alignfull size-full has-custom-border"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/why-choose-img-5.webp" alt="" class="wp-image-368" style="border-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"start-payments-section","style":{"spacing":{"padding":{"top":"50px","bottom":"85px"}}}} -->
+<div class="wp-block-columns start-payments-section" style="padding-top:50px;padding-bottom:85px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#233954bf"},"elements":{"link":{"color":{"text":"#233954bf"}}},"typography":{"lineHeight":1.4,"fontStyle":"normal","fontWeight":"500","fontSize":"20px","letterSpacing":"-0.4px"}}} -->
+<p class="has-text-align-center has-text-color has-link-color" style="color:#233954bf;font-size:20px;font-style:normal;font-weight:500;letter-spacing:-0.4px;line-height:1.4">Hasib follows international security and compliance standards, giving merchants peace of mind with every transaction.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","className":"decor-after-cards"} -->
+<div class="wp-block-column is-vertically-aligned-center decor-after-cards"><!-- wp:image {"id":487,"width":"136px","height":"199px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"55px","bottom":"10px"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:55px;margin-bottom:10px"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/start-payments-decor.webp" alt="" class="wp-image-487" style="object-fit:cover;width:136px;height:199px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center","className":".gradient-dark","style":{"typography":{"lineHeight":"1","fontSize":"64px","letterSpacing":"-1.3px"}}} -->
+<h2 class="wp-block-heading has-text-align-center .gradient-dark" style="font-size:64px;letter-spacing:-1.3px;line-height:1">Start accepting payments the easy way.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"20px","fontStyle":"normal","fontWeight":"500","lineHeight":"1.2"},"color":{"text":"#233954cc"},"elements":{"link":{"color":{"text":"#233954cc"}}}}} -->
+<p class="has-text-align-center has-text-color has-link-color" id="contact" style="color:#233954cc;font-size:20px;font-style:normal;font-weight:500;line-height:1.2">Our team is here to help you accept payments with confidence.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:cover {"url":"http://localhost:8888/hasib/wp-content/uploads/2025/09/blue-section-bg.webp","id":516,"dimRatio":0,"isUserOverlayColor":true,"sizeSlug":"full","className":"blue-section","style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-cover blue-section" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><img class="wp-block-cover__image-background wp-image-516 size-full" alt="" src="http://localhost:8888/hasib/wp-content/uploads/2025/09/blue-section-bg.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"className":"blue-section-row","style":{"spacing":{"padding":{"top":"7px","bottom":"7px","left":"7px","right":"7px"}}}} -->
+<div class="wp-block-columns blue-section-row" style="padding-top:7px;padding-right:7px;padding-bottom:7px;padding-left:7px"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"top":"80px","left":"115px","right":"20px","bottom":"0px"}}},"textColor":"white"} -->
+<h3 class="wp-block-heading has-white-color has-text-color has-link-color" style="padding-top:80px;padding-right:20px;padding-bottom:0px;padding-left:115px">Contact Us Today.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"blue-section-description","style":{"typography":{"lineHeight":1.4,"letterSpacing":"-0.32px"},"elements":{"link":{"color":{"text":"#ffffffbd"}}},"color":{"text":"#ffffffbd"},"spacing":{"padding":{"left":"115px","right":"20px"}}}} -->
+<p class="blue-section-description has-text-color has-link-color" style="color:#ffffffbd;padding-right:20px;padding-left:115px;letter-spacing:-0.32px;line-height:1.4">Fill in the form below and we’ll be in touch to get your business set up.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":518,"width":"353px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"right","className":"blue-section-laptop","style":{"spacing":{"margin":{"bottom":"40px","top":"145px"}}}} -->
+<figure class="wp-block-image alignright size-full is-resized blue-section-laptop" style="margin-top:145px;margin-bottom:40px"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/laptop.webp" alt="" class="wp-image-518" style="width:353px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":523,"width":"95px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"image-hasib","style":{"spacing":{"margin":{"right":"20px","left":"115px"}}}} -->
+<figure class="wp-block-image size-full is-resized image-hasib" style="margin-right:20px;margin-left:115px"><img src="http://localhost:8888/hasib/wp-content/uploads/2025/09/logo-white.webp" alt="" class="wp-image-523" style="width:95px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns {"className":"blue-section-bottom-text","style":{"spacing":{"padding":{"right":"20px","left":"115px","bottom":"60px"},"margin":{"top":"90px"}}}} -->
+<div class="wp-block-columns blue-section-bottom-text" style="margin-top:90px;padding-right:20px;padding-bottom:60px;padding-left:115px"><!-- wp:column {"width":"75px","className":"width-fit-content"} -->
+<div class="wp-block-column width-fit-content" style="flex-basis:75px"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"#ffffffcc"}}},"color":{"text":"#ffffffcc"},"typography":{"lineHeight":1.4,"letterSpacing":"-0.32px"}}} -->
+<p class="has-text-color has-link-color" style="color:#ffffffcc;letter-spacing:-0.32px;line-height:1.4">Support:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"blue-section-link"} -->
+<p class="blue-section-link"><a href="mailto:support@hasib.com">support@hasib.com</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%","className":"form-column","style":{"spacing":{"padding":{"top":"255px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-column form-column" style="padding-top:255px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:66.66%"><!-- wp:contact-form-7/contact-form-selector {"id":560,"hash":"85a9234","title":"Contact form 1","className":"contact-form-1"} -->
+<div class="wp-block-contact-form-7-contact-form-selector contact-form-1">[contact-form-7 id="85a9234" title="Contact form 1"]</div>
+<!-- /wp:contact-form-7/contact-form-selector --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
